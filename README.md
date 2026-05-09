@@ -1,10 +1,24 @@
+<div align="center">
+
+# 🛠️ Tecnologias utilizadas
+
+![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat&logo=python&logoColor=white)
+![PyMuPDF](https://img.shields.io/badge/PyMuPDF-fitz-orange?style=flat)
+![python-docx](https://img.shields.io/badge/python--docx-0.8+-blue?style=flat)
+
+- **Python 3.8+**
+- [`os`](https://docs.python.org/3/library/os.html), [`re`](https://docs.python.org/3/library/re.html), [`pathlib`](https://docs.python.org/3/library/pathlib.html), [`datetime`](https://docs.python.org/3/library/datetime.html) — bibliotecas padrão
+- [`PyMuPDF (fitz)`](https://pymupdf.readthedocs.io/) — leitura de PDFs
+- [`python-docx`](https://python-docx.readthedocs.io/) — leitura de arquivos Word
+ 
+</div>
+---
+
 # 📂 Automação com Python — Analisador de Documentos
 
 > Ferramenta de automação que lê, analisa e prioriza documentos (`.txt`, `.pdf`, `.docx`) com base em palavras-chave e data de criação, gerando relatórios organizados automaticamente.
 
----
-
-## 🧠 Como funciona
+# 🧠 Como funciona
 
 O script percorre uma pasta chamada `docs/`, lê o conteúdo de cada arquivo suportado e calcula uma pontuação de prioridade com base em dois critérios:
 
@@ -21,7 +35,7 @@ Ao final, exibe os resultados ordenados por score e permite exportar um relatór
 Automação-com-Python/
 │
 ├── docs/                  # Pasta com os documentos a serem analisados
-│   └─── exemplos de txt, pdf e docx
+│   └── exemplos de txt, pdf e docx
 │
 ├── README.md
 └── app.py                 # Script principal
@@ -121,28 +135,9 @@ Resultados da análise
 
 ---
 
-## 🛠️ Tecnologias utilizadas
-
-![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat&logo=python&logoColor=white)
-![PyMuPDF](https://img.shields.io/badge/PyMuPDF-fitz-orange?style=flat)
-![python-docx](https://img.shields.io/badge/python--docx-0.8+-blue?style=flat)
-
-- **Python 3.8+**
-- [`os`](https://docs.python.org/3/library/os.html), [`re`](https://docs.python.org/3/library/re.html), [`pathlib`](https://docs.python.org/3/library/pathlib.html), [`datetime`](https://docs.python.org/3/library/datetime.html) — bibliotecas padrão
-- [`PyMuPDF (fitz)`](https://pymupdf.readthedocs.io/) — leitura de PDFs
-- [`python-docx`](https://python-docx.readthedocs.io/) — leitura de arquivos Word
-
----
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
-
----
-
 ## 👤 Autor
 
-**Gustavo** — [@gustavoETK](https://github.com/gustavoETK)
+**Gustavo** 
 
 ---
 
