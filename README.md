@@ -6,13 +6,12 @@
 ![PyMuPDF](https://img.shields.io/badge/PyMuPDF-fitz-orange?style=flat)
 ![python-docx](https://img.shields.io/badge/python--docx-0.8+-blue?style=flat)
 
-- **Python 3.8+**
-- [`os`](https://docs.python.org/3/library/os.html), [`re`](https://docs.python.org/3/library/re.html), [`pathlib`](https://docs.python.org/3/library/pathlib.html), [`datetime`](https://docs.python.org/3/library/datetime.html) — bibliotecas padrão
-- [`PyMuPDF (fitz)`](https://pymupdf.readthedocs.io/) — leitura de PDFs
-- [`python-docx`](https://python-docx.readthedocs.io/) — leitura de arquivos Word
+ **Python 3.8+**
+[`os`](https://docs.python.org/3/library/os.html), [`re`](https://docs.python.org/3/library/re.html), [`pathlib`](https://docs.python.org/3/library/pathlib.html), [`datetime`](https://docs.python.org/3/library/datetime.html) — bibliotecas padrão
+[`PyMuPDF (fitz)`](https://pymupdf.readthedocs.io/) — leitura de PDFs
+[`python-docx`](https://python-docx.readthedocs.io/) — leitura de arquivos Word
  
 </div>
----
 
 # 📂 Automação com Python — Analisador de Documentos
 
